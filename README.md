@@ -4,11 +4,11 @@
 
 ## Screenshoot
 
-![Image](homework8\ReadmeGen.png)
+![Image](./ReadmeGen.png)
 
 
 ## Demo
-![Video](https://drive.google.com/file/d/1gmPX8c10ZbxrijbcaUMLzd43wCtQ6hb3/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1gmPX8c10ZbxrijbcaUMLzd43wCtQ6hb3/view?usp=sharing)
     
     # Table of Content: 
     -[Description](#description)
